@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["*"]
+    },
+    "rootDir": "src",
+    "esModuleInterop": true                              /* Skip type checking all .d.ts files. */
+  }
+}
